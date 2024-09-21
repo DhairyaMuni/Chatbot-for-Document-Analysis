@@ -1,7 +1,7 @@
 # Chatbot for Document Analysis
 
 ## Description
-This project involves the development of a chatbot designed to extract and provide information from large Excel or PDF documents in response to user queries. The system utilizes natural language processing (NLP) techniques to understand the content of the documents and answer questions accurately. 
+This project involves the development of a chatbot designed to extract and provide information from large Excel or PDF documents in response to user queries. The system utilizes natural language processing (NLP) techniques to understand the content of the documents and answer questions accurately. The chatbot is capable of assisting users from various departments, including Code, HR, Finance, IT, Marketing, Operations, Law, and General inquiries.
 
 ## Technologies Used
 - **Python**: Programming language for implementing the chatbot and document processing.
