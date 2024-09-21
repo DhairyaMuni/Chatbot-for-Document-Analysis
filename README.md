@@ -12,8 +12,6 @@ This project involves the development of a chatbot designed to extract and provi
   - `pandas` for data manipulation and processing of Excel files.
   - `PyPDF2` or `pdfplumber` for extracting text from PDF documents.
   - `LangChain` for managing interactions with LLMs.
- 
-  
 
 ## Usage
 1. Clone this repository:
@@ -24,12 +22,14 @@ This project involves the development of a chatbot designed to extract and provi
     ```bash
     cd chatbot_document_analysis
     ```
-3. Run the chatbot:
+3. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Run the chatbot:
     ```bash
     streamlit run Main.py
     ```
-
-
 
 ## Performance Evaluation
 The chatbot's performance can be evaluated based on:
