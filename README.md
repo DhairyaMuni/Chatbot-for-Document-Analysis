@@ -40,3 +40,15 @@ The chatbot's performance can be evaluated based on:
 
 ## Conclusion
 This project demonstrates the application of NLP and LLMs in developing a chatbot capable of analyzing and extracting information from large documents. The integration of machine learning allows the system to improve its responses over time, making it a valuable tool for users seeking quick and accurate information from extensive datasets.
+
+
+
+
+## DEMO
+![image](https://github.com/user-attachments/assets/85794934-bf0a-4b78-b964-58d359788be7)
+![image](https://github.com/user-attachments/assets/23a9e28f-dc4b-4a80-b83e-035bb2f9996b)
+![image](https://github.com/user-attachments/assets/7c55157f-e98f-4818-8e9a-472f89a63356)
+![image](https://github.com/user-attachments/assets/ff24f6c4-c90d-47de-9a54-616d38f48658)
+
+
+
