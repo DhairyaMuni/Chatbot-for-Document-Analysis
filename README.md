@@ -45,10 +45,20 @@ This project demonstrates the application of NLP and LLMs in developing a chatbo
 
 
 ## DEMO
+
+#PDF
 ![image](https://github.com/user-attachments/assets/85794934-bf0a-4b78-b964-58d359788be7)
 ![image](https://github.com/user-attachments/assets/23a9e28f-dc4b-4a80-b83e-035bb2f9996b)
 ![image](https://github.com/user-attachments/assets/7c55157f-e98f-4818-8e9a-472f89a63356)
 ![image](https://github.com/user-attachments/assets/ff24f6c4-c90d-47de-9a54-616d38f48658)
+
+#EXCEL
+![image](https://github.com/user-attachments/assets/7501aa7f-19da-4ce8-94e9-1a310b47ee5c)
+![image](https://github.com/user-attachments/assets/4214d2fc-dae4-44c6-8dc0-174de6a78d5e)
+![image](https://github.com/user-attachments/assets/3ae7e929-863e-4e16-8aa0-c419d6d1130a)
+
+
+
 
 
 
