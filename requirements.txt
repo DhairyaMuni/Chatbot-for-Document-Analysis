@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+PyPDF2
+langchain
+langchain-community
+groq
+voyageai
+pydantic
+pandas
+matplotlib
+seaborn
+numpy
