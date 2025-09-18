@@ -35,42 +35,42 @@ class DepartmentConfig:
 departments_config = {
     "General": DepartmentConfig(
         name="General",
-        model_name="llama3-70b-8192",
+        model_name="llama-3.3-70b-versatile",
         embedding_model="voyage-large-2-instruct"
     ),
     "HR": DepartmentConfig(
         name="HR",
-        model_name="llama3-70b-8192-hr",
+        model_name="llama-3.3-70b-versatile",
         embedding_model="voyage-large-2-instruct"
     ),
     "Finance": DepartmentConfig(
         name="Finance",
-        model_name="llama3-70b-8192-finance",
+        model_name="llama-3.3-70b-versatile",
         embedding_model="voyage-finance-2"
     ),
     "IT": DepartmentConfig(
         name="IT",
-        model_name="llama3-70b-8192-it",
+        model_name="llama-3.3-70b-versatile",
         embedding_model="voyage-large-2-instruct"
     ),
     "Marketing": DepartmentConfig(
         name="Marketing",
-        model_name="llama3-70b-8192-marketing",
+        model_name="llama-3.3-70b-versatile",
         embedding_model="voyage-large-2-instruct"
     ),
     "Operations": DepartmentConfig(
         name="Operations",
-        model_name="llama3-70b-8192-operations",
+        model_name="llama-3.3-70b-versatile",
         embedding_model="voyage-large-2-instruct"
     ),
     "Law": DepartmentConfig(
         name="Law",
-        model_name="llama3-70b-8192-law",
+        model_name="llama-3.3-70b-versatile",
         embedding_model="voyage-law-2"
     ),
     "Code": DepartmentConfig(
         name="Code",
-        model_name="llama3-70b-8192-code",
+        model_name="llama-3.3-70b-versatile",
         embedding_model="voyage-code-2"
     )
 }
