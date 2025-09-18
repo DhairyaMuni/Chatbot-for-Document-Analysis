@@ -16,7 +16,7 @@ This project involves the development of a chatbot designed to extract and provi
 ## Usage
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/chatbot_document_analysis.git
+    git clone https://github.com/DhairyaMuni/Chatbot-for-Document-Analysis
     ```
 2. Navigate to the project directory:
     ```bash
